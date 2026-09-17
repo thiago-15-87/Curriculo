@@ -1,0 +1,61 @@
+hr {
+    border: 0;
+    border-top: 2px solid #526D78;
+}
+body{
+    background-color: #F4F1EA;
+    color: #2F3437;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    h1{
+        color: #314A52;
+    }
+
+    h2{ background-color: #526D78;
+    color: #F4F1EA;
+    padding: 10px;
+    margin: 30px 0 15px;
+    border-radius: 6px;
+}
+    
+
+    table {
+   border-collapse: collapse;
+    border: 2px solid #526D78;
+}
+
+th, td {
+    border: 1px solid #C9C3B8;
+    padding: 10px;
+}
+
+th{
+    background-color: #526D78;
+    color: #F4F1EA;
+}
+.esp {
+    border-radius: 12px;
+    border: 3px solid #526D78;
+}
+
+.logo{
+    border-radius: 12px;
+    border: 3px #f0f1f2;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.informacoes {
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    font-size: larger;
+}
+
